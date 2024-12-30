@@ -2,3 +2,5 @@ name: MineStego
 version: '1.0'
 main: net.civicraft.mineStego.MineStego
 api-version: '1.21'
+commands:
+  stego:
